@@ -4,7 +4,6 @@ This is my personal portfolio website, showcasing my skills, projects, and exper
 
 ## Features
 
-- **Responsive Design**: The website is designed to be mobile-friendly and adapts to different screen sizes.
 - **Animated Typing Effect**: The hero section features a typing effect that displays a brief introduction about me.
 - **Project Showcase**: The portfolio section displays my recent projects with images, descriptions, and links to the live demos and source code.
 - **About Me**: The about section provides a brief overview of my background, skills, and interests.
